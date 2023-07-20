@@ -1,0 +1,30 @@
+{
+  "short_name": "MultiCity",
+  "name": "MultiCity",
+  "theme_color": "#4A90E2",
+  "background_color": "#fcb900",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/?utm_source=launcher"
+}
