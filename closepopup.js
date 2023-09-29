@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!event.toElement && !event.relatedTarget) {
       setTimeout(() => {
         show();
-      }, 70);
+      }, 7000);
     }
   });
 });
